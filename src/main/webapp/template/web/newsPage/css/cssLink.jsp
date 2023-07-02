@@ -1,0 +1,2 @@
+<link href="<c:url value='/template/web/newsPage/css/styles.css' />" rel="stylesheet" type="text/css" media="all"/>
+<link href="<c:url value='/template/web/newsPage/assets/favicon.ico' />" rel="icon" type="image/x-icon" />
