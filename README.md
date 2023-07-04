@@ -3,7 +3,7 @@
 ## Introduction
 
 Here is my source code for building an ecommerce website used to introduce and sell motorbike of a store. 
-After studying web programming course in my university, my group and me really want to build a web application to apply our knowledge in a real project in order to understand more about web programming and try building a useful project for some customers. We planned for many topics then we saw that many motorbike stores did not have their own website and they want it so we want to build this website for that customers in order to help them introduce their products easily and also sell it. Not only we applied web programming knowledge on this project but also I continued to update with some web security, some design patterns,... And now I continue updating this for the better and more useful project.
+After studying web programming course in my university, my group and me really want to build a web application to apply our knowledge in a real project in order to understand more about web programming and try building a useful project for some customers. We planned for many topics then we saw that many motorbike stores did not have their own website and they want it so we want to build this website for that customers in order to help them introduce their products easily and also sell it. Not only we applied web programming knowledge on this project but also I continued to update with some web security, some design patterns,... And now I continue updating this to the better and more useful project.
 <p align="center">
   <img src="demo/slideshow.gif" width="300">
   <img src="demo/homepagescroll.gif" width="300">
