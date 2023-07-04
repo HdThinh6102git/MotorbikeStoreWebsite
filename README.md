@@ -28,6 +28,7 @@ After studying web programming course in my university, my group and me really w
 * **Register, Login**
 * **Search products**
 * **Filter list products (by price, color,...)**
+* **Add product to cart or favorite list**
 * **Comment/Review about products**
 * **Review about products**
 * **Contact with shop owner**
@@ -37,7 +38,7 @@ After studying web programming course in my university, my group and me really w
 ## How to use my code 
 
 With my code, you can :
-###(Eclipse IDE)
+
 * **Clone project: git clone https://github.com/HdThinh6102git/MotorbikeStoreWebsite/**
 * **Import project into eclipse**
 * **Update maven project**
