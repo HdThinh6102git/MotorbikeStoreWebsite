@@ -43,7 +43,7 @@ With my code, you can :
 * **Import project into eclipse**
 * **Update maven project**
 * **Import sql file into mysql**
-* **Change database connection in Project**
+* **Change database connection in following path src/main/java/com/MotorbikeStore/dao/impl/DBConnection.java**
 * **Create a tomcat server**
 * **Run project on server**
  
