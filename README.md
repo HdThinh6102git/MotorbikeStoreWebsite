@@ -4,22 +4,22 @@
 
 Here is my python source code for training an agent to play super mario bros. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783).
 <p align="center">
-  <img src="demo/slideshow.gif" width="200">
-  <img src="demo/homepagescroll.gif" width="200">
-  <img src="demo/footerhomepage.gif" width="200">
-  <img src="demo/shopscroll.gif" width="200"><br/>
-  <img src="demo/pricefilter.gif" width="200">
-  <img src="demo/colorfilter.gif" width="200">
-  <img src="demo/search.gif" width="200">
-  <img src="demo/slideshowdetail.gif" width="200"><br/>
-  <img src="demo/addfavorite.gif" width="200">
-  <img src="demo/addtocart.gif" width="200">
-  <img src="demo/orderlist.gif" width="200">
-  <img src="demo/filterproduct.gif" width="200"><br/>
-  <img src="demo/addnewproduct.gif" width="200">
-  <img src="demo/editproduct.gif" width="200">
-  <img src="demo/deleteproduct.gif" width="200">
-  <img src="demo/listcomment.gif" width="200"><br/>
+  <img src="demo/slideshow.gif" width="300">
+  <img src="demo/homepagescroll.gif" width="300">
+  <img src="demo/footerhomepage.gif" width="300">
+  <img src="demo/shopscroll.gif" width="300"><br/>
+  <img src="demo/pricefilter.gif" width="300">
+  <img src="demo/colorfilter.gif" width="300">
+  <img src="demo/search.gif" width="300">
+  <img src="demo/slideshowdetail.gif" width="300"><br/>
+  <img src="demo/addfavorite.gif" width="300">
+  <img src="demo/addtocart.gif" width="300">
+  <img src="demo/orderlist.gif" width="300">
+  <img src="demo/filterproduct.gif" width="300"><br/>
+  <img src="demo/addnewproduct.gif" width="300">
+  <img src="demo/editproduct.gif" width="300">
+  <img src="demo/deleteproduct.gif" width="300">
+  <img src="demo/listcomment.gif" width="300"><br/>
   <i>Sample results</i>
 </p>
 
