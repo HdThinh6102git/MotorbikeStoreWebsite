@@ -24,11 +24,13 @@ After studying a web programming course at my university, my group and I wanted 
   <i>Sample results</i>
 </p>
 
-## Some main functions 
+## Usecase diagram
 <p align="center">
   <i>Usecase diagram</i><br/>
   <img src="demo/usecase.PNG" width="500"><br/>
 </p>
+## Some main functions
+
 * **Register, Login**
 * **Search products**
 * **Filter list of products (by price, color,...)**
