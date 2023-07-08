@@ -28,6 +28,7 @@ After studying a web programming course at my university, my group and I wanted 
 <p align="center">
   <i>Usecase diagram</i><br/>
   <img src="demo/usecase.PNG" width="500"><br/>
+  <i>Link requirement modeling: https://docs.google.com/document/d/1A_l-G4DdyuuDWZijfDaK-KKGS3IX7d5YfKWeXW2-wrk/edit?usp=sharing </i><br/>
 </p>
 
 
