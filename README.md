@@ -29,6 +29,8 @@ After studying a web programming course at my university, my group and I wanted 
   <i>Usecase diagram</i><br/>
   <img src="demo/usecase.PNG" width="500"><br/>
 </p>
+
+
 ## Some main functions
 
 * **Register, Login**
