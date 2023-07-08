@@ -26,9 +26,8 @@ After studying a web programming course at my university, my group and I wanted 
 
 ## Some main functions 
 <p align="center">
+  <i>Usecase diagram</i><br/>
   <img src="demo/usecase.PNG" width="500"><br/>
-  
-  <i>Usecase diagram</i>
 </p>
 * **Register, Login**
 * **Search products**
